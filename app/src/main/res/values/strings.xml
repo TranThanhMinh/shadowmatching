@@ -1,12 +1,19 @@
 <resources>
     <string name="app_name">Shadow Match</string>
-    <string name="admob_application_id">ca-app-pub-5751638294565515~8437557243</string>
+    <string name="admob_application_id">ca-app-pub-5751638294565515~8009459058</string>
 
-    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+<!--    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>-->
+<!--    <string name="AdMob_Native">ca-app-pub-3940256099942544/2247696110</string>-->
+<!--    <string name="AdMob_OpenApp">ca-app-pub-3940256099942544/9257395921</string>-->
+<!--    <string name="AdMob_Rewarded">ca-app-pub-3940256099942544/5224354917</string>-->
+
+    <string name="admob_banner_id">ca-app-pub-5751638294565515/8671804036</string>
+    <string name="admob_interstitial_id">ca-app-pub-5751638294565515/7358722369</string>
     <string name="AdMob_Native">ca-app-pub-3940256099942544/2247696110</string>
-    <string name="AdMob_OpenApp">ca-app-pub-3940256099942544/9257395921</string>
+    <string name="AdMob_OpenApp">ca-app-pub-5751638294565515/6045640697</string>
     <string name="AdMob_Rewarded">ca-app-pub-3940256099942544/5224354917</string>
-    <string name="more_game_url">https://play.google.com/store/apps/developer?id=YourCompanyName</string>
-    <string name="rate_game_url">https://play.google.com/store/apps/details?id=com.yourcompany.shadowmatching</string>
+
+    <string name="more_game_url">https://play.google.com/store/apps/developer?id=MinhDev</string>
+    <string name="rate_game_url">https://play.google.com/store/apps/details?id=com.resource.shadowmatching</string>
 </resources>

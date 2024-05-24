@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">shadowmatching</string>
+    <string name="app_name">Shadow Match</string>
     <string name="admob_application_id">ca-app-pub-5751638294565515~8437557243</string>
 
     <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>

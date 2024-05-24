@@ -86,6 +86,7 @@ public class AppActivity extends Cocos2dxActivity {
             lp.layoutInDisplayCutoutMode = WindowManager.LayoutParams.LAYOUT_IN_DISPLAY_CUTOUT_MODE_SHORT_EDGES;
             getWindow().setAttributes(lp);
         }
+        MyApplication.mActivity = this;
         _this = this;
         AdView adView = new AdView(_this);
         bannerAdView = adView;
